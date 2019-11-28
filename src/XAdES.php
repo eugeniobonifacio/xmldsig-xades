@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Eugenio Bonifacio
- * Date: 28/11/19
- * Time: 10:34
- */
-
 namespace EugenioBonifacio\XmlDSig\XAdES;
 
 use DateTime;
